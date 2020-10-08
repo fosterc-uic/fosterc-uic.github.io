@@ -9,7 +9,8 @@ Type a description of the problem you are trying to solve. Include the problem n
   >				
           <textarea name="message"></textarea>		
     <input type="hidden" name="_replyto" value="fosterc@uic.edu">	
-    <input type="hidden" name="_next" value="https://fosterc-uic.github.io/ask.html">		      
+    <input type="hidden" name="_next" value="https://fosterc-uic.github.io/ask.html">
+    <input type="hidden" name="_captcha" value="false">
     <button type="submit">Send</button>		
   </form>
 
