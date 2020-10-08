@@ -9,7 +9,7 @@ Type a description of the problem you are trying to solve. Include the problem n
   >				
           <textarea name="message"></textarea>		
     <input type="hidden" name="_replyto" value="fosterc@uic.edu">	
-    <input type="hidden" name="_next" value="https://datad.github.io/cme434exams/">		      
+    <input type="hidden" name="_next" value="https://fosterc-uic.github.io/ask/">		      
     <button type="submit">Send</button>		
   </form>
 
